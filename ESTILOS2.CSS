@@ -1,0 +1,23 @@
+body{background:#EBDEF0 ;}
+
+h2,p {margin:30px;}
+h1 {color:#808B96;
+   font-size:40px;
+   font-style:jackdean;
+   text-align: center;}
+
+p {color:black; 
+  font-size:16px;
+  font-family:small fonts;
+  font-weight:bold;
+  line-height:20px;
+  letter-spacing:3px;
+  text-transform:capitalize;
+  text-align:light}  
+img {img-align: center;
+  height:200px;
+  width:350px;}
+h2 {color:#808B96;
+   font-size:40px;
+   font-style:jackdean;
+   text-align: center;}
